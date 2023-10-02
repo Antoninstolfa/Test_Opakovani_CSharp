@@ -1,0 +1,11 @@
+G:\PRG\Opakovani C#\testopakovani\testopakovani\bin\Debug\testopakovani.exe.config
+G:\PRG\Opakovani C#\testopakovani\testopakovani\bin\Debug\testopakovani.exe
+G:\PRG\Opakovani C#\testopakovani\testopakovani\bin\Debug\testopakovani.pdb
+G:\PRG\Opakovani C#\testopakovani\testopakovani\obj\Debug\testopakovani.csproj.AssemblyReference.cache
+G:\PRG\Opakovani C#\testopakovani\testopakovani\obj\Debug\testopakovani.csproj.SuggestedBindingRedirects.cache
+G:\PRG\Opakovani C#\testopakovani\testopakovani\obj\Debug\testopakovani.Form1.resources
+G:\PRG\Opakovani C#\testopakovani\testopakovani\obj\Debug\testopakovani.Properties.Resources.resources
+G:\PRG\Opakovani C#\testopakovani\testopakovani\obj\Debug\testopakovani.csproj.GenerateResource.cache
+G:\PRG\Opakovani C#\testopakovani\testopakovani\obj\Debug\testopakovani.csproj.CoreCompileInputs.cache
+G:\PRG\Opakovani C#\testopakovani\testopakovani\obj\Debug\testopakovani.exe
+G:\PRG\Opakovani C#\testopakovani\testopakovani\obj\Debug\testopakovani.pdb
